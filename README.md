@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![An image of @gaurav12devloper's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurav12devloper)](https://holopin.io/@gaurav12devloper)
 
 <div align="center">
 <!-- <img width="100%" height = "250px" src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" alt="cover" /> -->
