@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=Html,roff&langs_count=10&theme=tokyonight" alt="gaurav12devloper" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav12devloper&layout=compact&hide=Html,roff&langs_count=10&theme=tokyonight" alt="gaurav12devloper" />
 </p>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurav12devloper&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav12devloper&theme=tokyonight" />
+ <!--  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav12devloper&theme=tokyonight" /> -->
 </p>
-<!-- <a href="https://github.com/gaurav12devloper/gaurav12devloper"><img alt=" Gaurav's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav12devloperk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- -->
+<!-- <a href="https://github.com/gaurav12devloper/gaurav12devloper"><img alt=" Gaurav's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav12devloperk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+
 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
