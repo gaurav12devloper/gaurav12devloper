@@ -1,4 +1,3 @@
-
 <!--
 **gaurav12devloper/gaurav12devloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +37,18 @@ Here are some ideas to get you started:
 </p>
 <!-- <a href="https://github.com/gaurav12devloper/gaurav12devloper"><img alt=" Gaurav's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav12devloperk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
+<h2 align="center">LeetCode Stats</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/codergauravprajapati/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-codergauravprajapati-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/codergauravprajapati/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/codergauravprajapati?theme=dark&font=Baloo&border=0&radius=10" alt="Gaurav's LeetCode Stats" />
+  </a>
+</p>
+
 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
@@ -56,4 +67,4 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/gauravprajapati4945" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
-</div>  
+</div>
